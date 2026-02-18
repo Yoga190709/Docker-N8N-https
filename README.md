@@ -28,7 +28,7 @@ chmod +x generate-certs.sh
 
 **Windows without Git?** Use [WSL](https://learn.microsoft.com/en-us/windows/wsl/) and run the bash script above.
 
-See `certs/CERTSREADME.md` for more options (Let's Encrypt, etc.).
+See `certs/CERTREADME.md` for more options (Let's Encrypt, etc.).
 
 ### 2. Set your hostname (optional)
 
